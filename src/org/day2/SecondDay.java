@@ -8,5 +8,14 @@ public class SecondDay {
 		
 		System.out.println(b);
 	}
+	
+	public static void main(String[] args) {
+		
+		SecondDay s = new SecondDay();
+		
+		s.hello(10, 55);
+		
+		
+	}
 
 }
